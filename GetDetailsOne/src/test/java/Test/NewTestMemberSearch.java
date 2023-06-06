@@ -22,7 +22,7 @@ public class NewTestMemberSearch {
 		Thread.sleep(1000);
 		driver.manage().window().maximize();
 		driver.get("https://google.com");
-		System.out.println("Hello & Hi !!!!");
+		System.out.println("Hello Brother !!!!");
 		Thread.sleep(5000);
 		driver.close();
 			}
